@@ -1,0 +1,13 @@
+***** Pizza Türleri *****
+1: Klasik
+2: Margarita
+3: TurkPizza
+4: Sade Pizza
+***** Ekstra Malzemeler *****
+5: Zeytin
+6: Mantar
+7: Peynir
+8: Et
+9: Soğan
+10: Mısır
+***** Tesekkur ederiz! *****
